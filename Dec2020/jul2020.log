@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.21)  1 DEC 2020 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.11.21)  1 DEC 2020 17:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -173,8 +173,7 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \titlewidth=\dimen146
 \titlewidthlast=\dimen147
 \titlewidthfirst=\dimen148
-))
-No file jul2020.aux.
+)) (./jul2020.aux)
 \openout1 = `jul2020.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -193,7 +192,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Trying to load font information for T1+Carlito-OsF on input
  line 17.
-(/usr/share/texlive/texmf-dist/tex/latex/carlito/T1Carlito-OsF.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/carlito/T1Carlito-OsF.fd
 File: T1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for T1/Carlito-Os
 F.
 )
@@ -260,8 +259,8 @@ LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/it' will be
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./jul2020.aux) ) 
 Here is how much of TeX's memory you used:
- 3426 strings out of 480906
- 58382 string characters out of 5910771
+ 3428 strings out of 480906
+ 58406 string characters out of 5910771
  320959 words of memory out of 5000000
  18963 multiletter control sequences out of 15000+600000
  578308 words of font info for 45 fonts, out of 8000000 for 9000
@@ -275,7 +274,7 @@ exmf-dist/fonts/enc/dvips/caladea/cld_fjy5hl.enc}</usr/share/texlive/texmf-dist
 ts/type1/typoland/carlito/Carlito-Bold.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/typoland/carlito/Carlito-Italic.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/typoland/carlito/Carlito.pfb>
-Output written on jul2020.pdf (2 pages, 92115 bytes).
+Output written on jul2020.pdf (2 pages, 92656 bytes).
 PDF statistics:
  38 PDF objects out of 1000 (max. 8388607)
  23 compressed objects within 1 object stream
