@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.19)  6 JUL 2021 12:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.19)  7 JUL 2021 13:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -329,10 +329,10 @@ LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/it' will be
 (Font)              scaled to size 10.0pt on input line 35.
 <<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 60.
+(Font)              <7> on input line 35.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 60.
+(Font)              <5> on input line 35.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.aux)
@@ -346,12 +346,12 @@ Here is how much of TeX's memory you used:
  26619 multiletter control sequences out of 15000+600000
  446650 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,4n,89p,1243b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_llspvt.enc}{/usr/share/texmf-dist/fonts/enc/dvips/caladea/cld_fjy5hl.enc}</usr/share/texmf-dist/fonts/type1/huerta/caladea/Caladea-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito-Italic.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on /mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf (2 pages, 131113 bytes).
+ 82i,4n,89p,1243b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_llspvt.enc}{/usr/share/texmf-dist/fonts/enc/dvips/caladea/cld_fjy5hl.enc}</usr/share/texmf-dist/fonts/type1/huerta/caladea/Caladea-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito-Italic.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on /mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf (2 pages, 141868 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 108 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  12 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
