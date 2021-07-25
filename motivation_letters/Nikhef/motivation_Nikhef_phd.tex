@@ -1,0 +1,85 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+%Version for spanish users, by dgarhdez
+
+\documentclass[12pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+%\usepackage[spanish,es-lcroman]{babel}
+
+
+% moderncv themes
+\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{green}                              % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{Mikhail}{Solovyanov}
+\title{Resumé title}                               % optional, remove / comment the line if not wanted
+\address{Address}{Dolgoprudny}{Moscow}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+7-977-905-79-70}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{solovyanov.mm@phystech.edu}                               % optional, remove / comment the line if not wanted
+%\homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{To The research laboratory Nikhef}{Motivational letter for PhD program}
+\date{\today}
+\opening{To whom it may concern.}
+\closing{Thank you for your attantion.}
+%\enclosure[]{}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+\makelettertitle
+%$Hf_{0.5} Z_{0.5} O $
+
+\hspace{1cm}The aim of this letter is to describe my major reasons and interests to join your project.I stumbled on your PhD vacancy  in a field of analog IC design, and I see it as an opportunity.
+For brief history, I spent the last 5 years in a team of exceptionally talented full stack chip developers in the MIPT lab. Their work was aimed to design chips for developing and testing new types of energy efficient FRAM and ReRAM based on $Hf_{0.5} Z_{0.5} O $ memory cells. During my Bachelor studies I was working with general memory design starting from building a Verilog A model for ferroelectric crystals and to a simple digital controller and analog components. All development was done in Cadence Virtuoso CAD, so I am familiar with SPECTRE, Layout XL, ADE L, and it’s calculator, Calibre and Mentor LVS and DRC modules. Also was able to make installations of this software and maintain it on my personal machine and later on the server node. A lot of methodical learning was made during this period. Including memory architectures, analog to digital conversion etc. 
+During my masters program I joined the team who was responsible for designing a special SMU chip on a 180nm SOI node. The goal of that research was to measure time domain behavior  of functional materials and memory cells based on them. But conduct this material studies directly on a chip under very harsh conditions (temperature and radiation). On  frequencies  up to 100MHz of ADC and DAC operation. I was responsible for schematic and layout of  small but vital analog subcuircuits such as op amps, current sources, DACs etc. 180nm SOI  processes adopted by local fab have few pre-designed components, so my skills of understanding transistor level design was really put under test. Also was made an attempt to predict cristall parasitics by method of mathematical optimization by reading external signals.
+\\
+\hspace{1cm} However, I think my main strength is not only my IC design experience, but broad-mindedness in general. During my study in University, I also gained some experience in other software and electrical engineering fields. I developed and programmed electronics for sampling blood tests, AI controlled logistic drones, heart pulse signal generators and 3D photogrammetry reconstruction. In these occupations  I went through applications of electronics, PCB design, power design, programming, mechanical engineering , and management. Also, skills gained in a field of DevOps and System administration might be useful in setting up environments, automating analog simulation tests and adding a bit of machine learning to it in the process. Additionally, some skills help me fix stuff and create hardware architecture in my workplace that others can use.
+Also as a character specific detail I can be very energetic, open and inspired by work as was previously mentioned by my colleagues.\\
+\hspace{1cm}I think my experience with ADCs and DACs in different  processes can help with your research. Also my BS background in kvantum electronics and optics can be useful when working with sensors.\\
+\hspace{1cm}I see your vacancy as a unique way to continue to develop as an analog IC design  engineer and a scientist because it’s a very rare mix of state-of-the-art science and half a century old industry. It’s not so common to have a small team of talented IC designers and scientists who commit a real value to the science and industry in future. I would be happy to join you in your intensive research and work with a full dedication. 
+
+
+
+
+
+\vspace{0.1cm}
+
+
+\makeletterclosing
+
+\end{document}
+
+
+%% end of file `template.tex'.
