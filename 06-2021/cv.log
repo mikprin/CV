@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.19)  24 JUL 2021 19:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.19)  29 JUL 2021 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.tex
-(/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.tex
+**/home/miksolo/Documents/pop/latex/CV/06-2021/cv.tex
+(/home/miksolo/Documents/pop/latex/CV/06-2021/cv.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/share/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
@@ -22,7 +22,7 @@ File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
-) (/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/scimisc-cv.sty (/usr/share/texmf-dist/tex/generic/iftex/ifpdf.sty
+) (/home/miksolo/Documents/pop/latex/CV/06-2021/scimisc-cv.sty (/usr/share/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
  (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
@@ -234,7 +234,7 @@ File: T1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for T1/Carlito-OsF
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 18.
- (/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.aux)
+ (/home/miksolo/Documents/pop/latex/CV/06-2021/cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -305,7 +305,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 18.
 LaTeX Info: Redefining \pageref on input line 18.
 LaTeX Info: Redefining \nameref on input line 18.
- (/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.out) (/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.out)
+ (/home/miksolo/Documents/pop/latex/CV/06-2021/cv.out) (/home/miksolo/Documents/pop/latex/CV/06-2021/cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
@@ -335,20 +335,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 35.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/home/miksolo/Documents/pop/latex/CV/06-2021/cv.aux)
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: 597FEDF364D3507826B00F2B8E55C7D9;1212.
  ) 
 Here is how much of TeX's memory you used:
  9317 strings out of 478994
- 140215 string characters out of 5864751
+ 140110 string characters out of 5864751
  460525 words of memory out of 5000000
  26619 multiletter control sequences out of 15000+600000
  446650 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 82i,4n,89p,1243b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 82i,4n,89p,1236b,345s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_llspvt.enc}{/usr/share/texmf-dist/fonts/enc/dvips/caladea/cld_fjy5hl.enc}</usr/share/texmf-dist/fonts/type1/huerta/caladea/Caladea-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito-Italic.pfb></usr/share/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-Output written on /mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf (2 pages, 142528 bytes).
+Output written on /home/miksolo/Documents/pop/latex/CV/06-2021/cv.pdf (2 pages, 142529 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream

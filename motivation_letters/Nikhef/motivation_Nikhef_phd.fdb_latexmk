@@ -1,7 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1627235929 "/mnt/pop_os/home/miksolo/Documents/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.tex" "/mnt/pop_os/home/miksolo/Documents/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.pdf" "motivation_Nikhef_phd" 1627235929
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.aux" 1627235929 688 754865e6a154f72b6257972b4574c4cc ""
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.tex" 1627235928 7984 1f340a4a04467e41b002c1116191a782 ""
+["pdflatex"] 1627389251 "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.tex" "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.pdf" "motivation_Nikhef_phd" 1627389252
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.aux" 1627389252 688 754865e6a154f72b6257972b4574c4cc "pdflatex"
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.out" 1627389252 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.tex" 1627389251 7903 d120258717b8ca2d6130b53455009c65 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1617738065 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1617738065 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc" 1617738065 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -186,13 +187,8 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1625493362 5062027 e0358d22ea355b337fd2f4e3f2fb5fb5 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1624059154 2812681 c59a4a74be8bdb0c36092b4b755d4044 ""
-  "motivation_Nikhef_phd.aux" 1627235929 688 754865e6a154f72b6257972b4574c4cc "pdflatex"
-  "motivation_Nikhef_phd.out" 1627235929 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "motivation_Nikhef_phd.tex" 1627235928 7984 1f340a4a04467e41b002c1116191a782 ""
   (generated)
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.log"
-  "motivation_Nikhef_phd.aux"
-  "motivation_Nikhef_phd.log"
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.pdf"
-  "motivation_Nikhef_phd.out"
-  "motivation_Nikhef_phd.pdf"
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.out"
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.log"
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.pdf"
+  "/home/miksolo/Documents/pop/latex/CV/motivation_letters/Nikhef/motivation_Nikhef_phd.aux"
