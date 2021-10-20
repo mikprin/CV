@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1634757705 "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.tex" "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf" "cv" 1634758187
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.aux" 1634757705 1589 937bd0c2c3409e220bc755e9d8bcab29 ""
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.tex" 1634758187 7991 d0c8d20dfac28190c49d0db085240746 ""
+["pdflatex"] 1634761747 "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.tex" "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf" "cv" 1634761751
+  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.aux" 1634761748 1589 937bd0c2c3409e220bc755e9d8bcab29 ""
+  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.tex" 1634761750 8010 fcdfc3b1eae137cb6b889eb711fb614b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/caladea/cld_fjy5hl.enc" 1617690507 2987 403637b1b50196d768380725e38b7349 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_llspvt.enc" 1617690507 3360 050d111af23e9d59a563139146bcfcf6 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc" 1617690507 3095 534643e1ce5e5b89e4b95a9cbbe1a3ef ""
@@ -103,14 +103,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1617738065 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1625493362 5062027 e0358d22ea355b337fd2f4e3f2fb5fb5 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1624059154 2812681 c59a4a74be8bdb0c36092b4b755d4044 ""
-  "cv.aux" 1634757705 1589 937bd0c2c3409e220bc755e9d8bcab29 "pdflatex"
-  "cv.out" 1634757705 1212 597fedf364d3507826b00f2b8e55c7d9 "pdflatex"
-  "cv.tex" 1634758187 7991 d0c8d20dfac28190c49d0db085240746 ""
+  "cv.aux" 1634761748 1589 937bd0c2c3409e220bc755e9d8bcab29 "pdflatex"
+  "cv.out" 1634761748 1212 597fedf364d3507826b00f2b8e55c7d9 "pdflatex"
+  "cv.tex" 1634761750 8010 fcdfc3b1eae137cb6b889eb711fb614b ""
   "scimisc-cv.sty" 1625490624 1746 8c36049f023185e14085f90cbf319ddb ""
   (generated)
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf"
   "cv.aux"
-  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.log"
-  "cv.pdf"
   "cv.log"
+  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.log"
   "cv.out"
+  "cv.pdf"
+  "/mnt/pop_os/home/miksolo/Documents/latex/CV/06-2021/cv.pdf"
