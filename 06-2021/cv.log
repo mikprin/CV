@@ -410,13 +410,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./cv.aux)
-Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 597FEDF364D3507826B00F2B8E55C7D9;1212.
+
+Package rerunfilecheck Warning: File `cv.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `cv.out':
+(rerunfilecheck)             Before: 12AECAC846502B84A89BC4DFE4125B65;480
+(rerunfilecheck)             After:  597FEDF364D3507826B00F2B8E55C7D9;1212.
  ) 
 Here is how much of TeX's memory you used:
  9316 strings out of 478994
  139447 string characters out of 5864751
- 460525 words of memory out of 5000000
+ 460524 words of memory out of 5000000
  26619 multiletter control sequences out of 15000+600000
  446650 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -431,7 +437,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/font
 s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 7.pfb>
-Output written on cv.pdf (2 pages, 143483 bytes).
+Output written on cv.pdf (2 pages, 143851 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  88 compressed objects within 1 object stream
