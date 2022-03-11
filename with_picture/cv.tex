@@ -1,7 +1,10 @@
 \documentclass{article}
 \usepackage{scimisc-cv}
 \usepackage{hyperref}
- 
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[export]{adjustbox}
 \title{ Mikhail Solovyanov CV for Electronic Positions}
 \author{Mikhail Solovyanov}
 \date{\today}
@@ -9,25 +12,43 @@
 %% These are custom commands defined in scimisc-cv.sty
 \cvname{Mikhail Solovyanov}
 \cvpersonalinfo{
+25 years old \cvinfosep
 Moscow, Russian Federation \cvinfosep
 +7-977-905-79-70 \cvinfosep
 solovyanov.mm@phystech.edu \cvinfosep
-%linkedin
+\href{https://www.linkedin.com/in/mikhail-solovyanov-b4a32b217/}{linkedin}
 }
  
+%\rhead{\begin{picture}(0,0) \put(0,0){\includegraphics[width=1cm]{picture.jpg}} \end{picture}}
+
 \begin{document}
- 
+
 % \maketitle %% This is LaTeX's default title constructed from \title,\author,\date
  
 \makecvtitle %% This is a custom command constructing the CV title from \cvname, \cvpersonalinfo
- 
+%\smash{\includegraphics[width=3cm]{picture.jpg}}
+%\raisebox{-.5\totalheight}[0pt][.5\totalheight]{\includegraphics[width=10cm,height=10cm]{picture.jpg}}
+
 \section{Summary}
-\begin{itemize}
-\item Interdisciplinary electrical engineer, programmer and scientist with skills and experience in electronics, programming, machine learning, computer networks and measurements.
-\item Led development of a  project resulting in a patent.
-\item Self-motivated, problem-solving and collaborative scientist with notable communication and management skills.
-\item Have no stress digging in interdisciplinary fields and learning new subjects on the fly.
-\end{itemize}
+\begin{minipage}{0.7\textwidth}
+   \begin{itemize}
+      \item Interdisciplinary electrical engineer, programmer and scientist with skills and experience in electronics, programming, machine learning, computer networks and measurements.
+      \item Led development of a  project resulting in a patent.
+      \item Self-motivated, problem-solving and collaborative scientist with notable communication and management skills.
+      \item Have no stress digging in interdisciplinary fields and learning new subjects on the fly.
+      \end{itemize}
+   \end{minipage}%
+   \hfill
+   \begin{minipage}{0.3\textwidth}
+      %\begin{tabular}{0.8\textwidth}{\raggedleft\arraybackslash}
+         %\begin{figure}
+            %\begin{figure}
+               \includegraphics[width=4cm,right]{picture.jpg}
+           %\end{figure}
+         %\includegraphics[width=4cm,right]{picture.jpg}  
+         %\end{figure}
+      %\end{tabular}
+      \end{minipage}%
 
 \section{Technical Skills}
  
