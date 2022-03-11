@@ -4,3 +4,6 @@
 /**/*.aux
 /**/*.log
 /**/cv.synctex.gz
+/**/*.fdb_latexmk  
+/**/*.fls
+with_picture/cv.pdf
