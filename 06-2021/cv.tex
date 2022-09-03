@@ -30,15 +30,21 @@ solovyanov.mm@phystech.edu \cvinfosep
 \item Self-motivated, problem-solving and collaborative scientist with notable communication and management skills.
 \item Have no stress digging in interdisciplinary fields and learning new subjects on the fly.
 \end{itemize}
+
+
+
+
+% BEGIN OF RESUME
+
 \section{Technical Skills}
  
 \begin{itemize}
 
-\item \textbf{Electronics IC design:} Analog and mixed IC Design. Signals and systems, control design, Memory design and simulation, digital Electronics simulation, experience simulating and working with ferroelectric capacitors and memristors (cells of ReRAM memory),   mixed signal simulation, \textit{AC,DC,PZ,transient} simulation, parasitic parameters analysis. Simulation and verification automation. Operational amplifiers, comparators, DAC, ADC design. Experience of making layouts for $65 nm$, $90nm$, $180nm$ nodes. Basic FPGA programming.
+\item \textbf{Electronics IC design:} Analog and mixed IC Design. Signals and systems, control design, Memory design and simulation, digital Electronics simulation, experience simulating and working with ferroelectric capacitors and memristors (cells of ReRAM memory), mixed signal simulation, \textit{AC,DC,PZ,transient} simulation, parasitic parameters analysis. Xilinx FPGA programming. Simulation and verification automation. Operational amplifiers, comparators, DAC, ADC design. Experience of making layouts for $65 nm$, $90nm$, $180nm$ nodes.
 \item \textbf{Electronics PCB level design:} Full stack PCB design from schematic or device idea to SMT Assembly including Design for manufacturing (DFM). Embedded systems design (STM32,ESP32), raspberry pi, DSP, SDR,  control systems engineering , DC-DC converters, drivers, analog electronics, RF, IOT stack, impedance matched design, audio design.
-\item \textbf{Software engineering:} General experience of collaborative functional and object-oriented programming. Working with data and data analysis. Data visualization. Basics of web development.
-\item \textbf{Computational and Machine Learning, computer vision:} Applied machine learning algorithms. General knowledge in ML framework programming. General knowledge of machine learning methods. Optimization algorithms and basic CV algorithms.
-\item \textbf{Networks and Computer engineering and administration:} Server and PC building for complicated tasks, building custom racks and networks, Firewall and network setup, containers management and automation, deployment of VPN and other server client oriented soft.
+\item \textbf{Software engineering:} General experience of collaborative functional and object-oriented programming. Working with data and data analysis. Data visualization. Digital signal processing. Basics of web development.
+\item \textbf{Computational and Machine Learning, computer vision:} Applied machine learning algorithms. General knowledge in ML framework programming. Data preprocessing and working with dataset. Optimization algorithms and basic CV algorithms. Audio recognition.
+\item \textbf{Networks and Computer engineering and administration:} Deep Linux knowledge, and be very comfortable working in various Linux environments as well as with Windows. Server and PC building for complicated tasks, building custom racks and networks, Firewall and network setup, containers management and automation, deployment of VPN and other server client oriented soft.
 \item \textbf{Microscopy/Imaging/Materials:} Measuring equipment (oscilloscopes,VNA). SEM (Scanning Electron Microscope), Optical Microscope, lithography, ellipsometry, IC development lab processes, semi-professional Photography.
 \item \textbf{Mechanical skills:} Soldering (including 0403 SMD), connector crimping,  assembling and general mechanical engineering knowledge and experience. 3D slicing and Printing.
 \end{itemize}
@@ -46,9 +52,9 @@ solovyanov.mm@phystech.edu \cvinfosep
 \section{Software and Hardware Skills}
 \begin{itemize}
 \item \textbf{Programming langauges:} Python, C/C++, bash, VerilogA, MATLAB, Simulink, SimScape, Verilog, gnuradio. 
-\item \textbf{Electronics IC design:} Cadence virtuoso, SPICE, SPECTRE, Vivado, Vitis IDE.
+\item \textbf{Electronics IC design:} Cadence virtuoso, SPICE, SPECTRE, Vivado, Vitis IDE, Synopsys embedit.
 \item \textbf{Electronics PCB and embedded design:} Altium designer, KiCad, LtSpice, also for Embedded tools: STM32 cube IDE, Arduino IDE, PlatformIO, ESP-IDF.
-\item \textbf{DevOps and OS:} Docker, Ansible, Kubernetes, Linux, GIT.
+\item \textbf{DevOps and OS:} Docker, Ansible, Kubernetes, Linux (Centos,Debian based systems, Arch), GIT, command line utilities (grep,find etc), SQL, redis, celery.
 \end{itemize}
 
 \section{Research and work Experience}
@@ -60,7 +66,8 @@ solovyanov.mm@phystech.edu \cvinfosep
 \cvsubsection{ \href{https://en.wikipedia.org/wiki/Synopsys}{Synopsys}}[Inc]
 [Senior R\&D engineer][March 2022 to present]
    \begin{itemize}
-      \item Development of FPGA based SMS and SHS memory testing solutions on Xilinx Zynq boards.
+      \item Development of FPGA based SMS and SHS memory testing demos on Xilinx Zynq boards.
+      \item Implementation of FPGA based RTL prototype solution on Zynq device, including development of Firmware, RTOS, and Linux software to contact custom RTL code for memory testing. 
    \end{itemize}
 
 \cvsubsection{ \href{http://twin3d.pro}{Twin3d}}[LLC][Leading electrical/software engineer][January 2021 to Feb 2022]
@@ -68,7 +75,7 @@ solovyanov.mm@phystech.edu \cvinfosep
    \item Built electrical and software system to trigger and access 240 DSLR cameras in time window of 10us. This biggest rig in Russia was made for making top edge 3D photorealistic models of people and animals for VFX, games, cinema etc.
    \item Developed custom IOT solution build around raspberry pi and ESP32 to control 240 cameras, lights and 10 controlling computers and controllers with USB, UART, TCP, MQTT and SSH protocols.
    \item Eventually managed team of 2 programmers and 2 mechanical engineers for making scanners upgrades.
-   \item Built and maintained company IT infrastructure including servers for four RTX 3090 graphics cards for ML load and more.
+   \item Built and maintained company IT infrastructure including servers and pipelisnes for MLbased 3D reconstruction pipelines.
    \end{itemize}
 
 \cvsubsection{\href{https://mipt.ru/english/}{MIPT Neurocomputing systems lab}}[BS + MsC]
@@ -90,7 +97,7 @@ solovyanov.mm@phystech.edu \cvinfosep
  
 \begin{itemize}
 \item Responsible for development and programming of a motherboard PCB for AI based drones.
-\item Created scripts for automated soft building on ARM64 Jetson Xavier NX computer.
+\item MLops and DevOps for Machine learning soft on ARM64 Jetson Xavier NX computer controlling the drone. (TensorRT, Qt, CUDA ...)
 \end{itemize}
  
  
@@ -135,7 +142,7 @@ solovyanov.mm@phystech.edu \cvinfosep
  
 \begin{itemize}
 \item \href{https://microelectronica.pro/}{International forum microelectronics 2019}. Thesis: "Developing high energy efficient FRAM memory in neurocomputing application".
-\item  \href{https://conf62.mipt.ru/}{The 62th MIPT Scientific Conference.}. Thesis "Compiler for high energy efficient FRAM memory in neurocomputing application"
+\item  \href{https://conf62.mipt.ru/}{The 62th MIPT Scientific Conference.}. Thesis "Compiler for high energy efficient FRAM memory in neuromorphic computing application"
 \item \href{https://mipt.ru/science/5top100/education/courseproposal/%D0%A4%D0%AD%D0%A4%D0%9C.pdf}{The 63th MIPT Scientific Conference.}. Thesis: "Development of SMU IC for testing energy efficient memories"
 \end{itemize}
  
