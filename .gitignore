@@ -1,6 +1,7 @@
 ./Jul2020/*.log
 ./Jul2020/*.aux
 /**/*.out
+/**/*.pdf
 /**/*.aux
 /**/*.log
 /**/cv.synctex.gz
