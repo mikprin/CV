@@ -45,8 +45,6 @@ solovyanov.mm@phystech.edu \cvinfosep
 \end{minipage}%
 
 
-
-
 % BEGIN OF RESUME
 
 \section{Technical Skills}
@@ -54,9 +52,10 @@ solovyanov.mm@phystech.edu \cvinfosep
 \begin{itemize}
 
    \item \textbf{Software engineering:} General experience of collaborative functional and object-oriented programming. Working with data and data analysis. Data visualization. Basics of web development and backend. Digital signal processing. Embedded programming. API and service archetechture.
-   \item \textbf{Networks and Computer engineering and administration:} Deep Linux knowledge, and be very comfortable working in various Linux environments as well as with Windows. Server and PC building for complicated tasks, building custom racks and networks, Firewall and network setup, containers management and automation of process, deployment of VPN and other server client oriented software both enterprise and open source.
+   \item \textbf{Networks and Computer engineering and administration:} Deep Linux knowledge, and be very comfortable working in various Linux environments as well as Windows.
    \item \textbf{Computational and Machine Learning, computer vision:} Applied machine learning algorithms. General knowledge in ML framework programming. General knowledge of machine learning methods. Optimization algorithms and basic CV algorithms.
-   \item \textbf{Electronics design:} Analog and mixed IC Design. Signals and systems, control design. Simulation and verification automation. FPGA programming. Full stack PCB design, RF, IOT stack.
+   \item \textbf{Electronics design:} Analog and mixed IC electronics Design. Signals and systems, control design. Simulation and verification automation. FPGA programming. PCB design and microcontrollers programming, RF, IOT stack.
+   \item \textbf{Communication:} interdisciplinary communication, engineering management, project management, presentation and explanation skills.
    \item \textbf{Mechanical skills:} Soldering (including 0403 SMD), connector crimping,  assembling and general mechanical engineering knowledge and experience. 3D slicing and Printing.
 \end{itemize}
 
@@ -64,35 +63,46 @@ solovyanov.mm@phystech.edu \cvinfosep
 
 \begin{itemize}
 
-   \item \textbf{Programming langauges:} Python, C/C++, bash, VerilogA, MATLAB, Simulink, SimScape, Verilog, VerilogA, SQL, gnuradio.
-   \item \textbf{Frameworks:} FastApi, numpy, pandas, scipy, celery, PyTorch, sklearn, ansible API, threading, matplotlib (plotly), Qt, SQLAlchemy.
-   \item \textbf{DevOps and OS:} Docker, Ansible, SQL, redis, Kubernetes, Linux (Centos,Debian based systems, Arch), GIT, filesystems, github Actions.
+   \item \textbf{High level languages:} Python, bash, SQL, Verilog, MATLAB, Simulink, SimScape, HTML, Verilog, VerilogA, gnuradio.
+   \item \textbf{System level programming languages:} C, Rust. Including FreeRTOS and register level programming.
+   \item \textbf{Frameworks:} pandas, FastApi, numpy, scipy, celery, PyTorch, sklearn, threading, matplotlib (plotly), Qt, SQLAlchemy.
+   \item \textbf{DevOps and OS:} Docker, Ansible, concourse, redis, Kubernetes, Skaffold, Linux (Centos,Debian based systems, Arch), GIT, filesystems, github Actions.
    \item \textbf{Electronics:} Cadence virtuoso, SPICE, SPECTRE, Vivado, Vitis IDE. Altium designer, KiCad, LtSpice, STM32 cube IDE, Arduino IDE, PlatformIO, ESP-IDF.
 
 \end{itemize}
 
 \section{Research and work Experience}
-\cvsubsection{ \href{https://en.wikipedia.org/wiki/Synopsys}{Synopsys}}[Inc]
-[Senior R\&D engineer][March 2022 to present]
+
+
+\cvsubsection{ \href{https://bostongene.com/}{BostonGene}}[LLC]
+[Data engineer][October 2022 to present]
    \begin{itemize}
-      \item Development of FPGA based SMS and SHS memory testing solutions on Xilinx Zynq boards.
-      \item Implementation of FPGA based prototype solution on Zynq device, including development of Firmware, RTOS, and Linux software to contact custom RTL code for memory testing. Working with Zynq7000 and Zynq Ultrascale+ devices.
+      \item Development of custom mutation database query microservice engine "biom-calc" for BostonGene's R\&D software team.
+      \item Integrated my work in k8s the cluster.
+      \item Concourse CI/CD pipeline development for biom-calc and other software.
+    \end{itemize}  
+
+\cvsubsection{ \href{https://en.wikipedia.org/wiki/Synopsys}{Synopsys}}[Inc]
+[Senior R\&D engineer][March 2022 to October 2022]
+   \begin{itemize}
+      \item Created and integrated flow for prototyping and testing team's software solutions on custom client hardware on FPGA boards.
+      \item Solutions included development of Synopsys SMS and SHS memory testing solutions on Xilinx Zynq boards.
+      \item Flow included development of Firmware, RTOS, and Linux software to contact custom RTL code for memory testing. Working with Zynq7000 and Zynq Ultrascale+ devices.
    \end{itemize}  
 
 \cvsubsection{ \href{http://twin3d.pro}{Twin3d}}[LLC][Leading electrical/software engineer][January 2021 to Feb 2022]
 \begin{itemize}
    \item Built software, infrastructure and electrical system to trigger, access and store data for 240 DSLR cameras with trigger time window of 10us. This biggest rig in Russia was made for making top edge 3D photorealistic models of people and animals for VFX, games, cinema etc.
-   \item Developed custom IOT solution build around set of raspberry pi and ESP32 to control 240 cameras, lights and 10 controlling single-board computers and controllers with USB, UART, TCP, MQTT and SSH protocols.
+   \item Developed custom IOT solution build around set of Raspberry Pi and ESP32 based boards to control all cameras, lights and 10 controlling single-board computers and controllers with USB, UART, TCP, HTTP(S), MQTT and SSH protocols.
    \item Eventually managed team of 2 programmers and 2 mechanical engineers for making scanners upgrades.
-   \item  Built and maintained company IT infrastructure including servers and pipelisnes for MLbased 3D reconstruction pipelines.
+   \item  Built and maintained company IT infrastructure including servers and pipelines for ML-based 3D reconstruction pipelines.
 \end{itemize}
 
 \cvsubsection{\href{https://mipt.ru/english/}{MIPT Neurocomputing systems lab}}[BS + MsC]
 [Engineer][September 2017 to September 2021]
 \begin{itemize}
-\item This project coordinated by  \href{https://www.scopus.com/authid/detail.uri?authorId=56272708000}{D.Negrov}   led to development of IC's with a $Hf_{0.5} Z_{0.5} O $ based  FRAM with 5nm thin ferroelectric layer.
+\item This project coordinated by  \href{https://www.scopus.com/authid/detail.uri?authorId=56272708000}{D.Negrov} led to development of IC's with a $Hf_{0.5} Z_{0.5} O $ based  FRAM with 5nm thin ferroelectric layer and analog testing capabilities.
 \item Responsible for development of a prototype of a memory  compiler for new FRAM or ReRAM memory (Python and bash).
-\item Last year of work led to completion of essential analog components for memory testing chip. Developed comparators and Op Amps for ADC and DAC as part of SMU system on a chip.
 \item Used machine learning methods to evaluate parasitics in prototype IC chips and measuring probes.
 \item Managed lab server for IC design.
 \end{itemize}
@@ -100,23 +110,22 @@ solovyanov.mm@phystech.edu \cvinfosep
 \cvsubsection{\href{http://uvl.io/ }{UVL Robotics}}[LLC]
 [Electronic engineer / DevOps][Feb 2020 to Dec 2020]
 \begin{itemize}
-\item Created scripts for automated soft building on ARM64 Jetson Xavier NX computer.
-\item Responsible for development and programming of a motherboard PCB for AI based drones.
+\item Created and maintained Linux distribution with ML-tools for shipping AI powered logistic quadcopter drones based on Nvidia Jetson Xavier board.
+\item Responsible for development and programming of a PCB motherboard for mentioned drones.
 \end{itemize}
  
 %% An example of leaving an argument empty
 \cvsubsection{Tech Agent Startup}[][Electronics Engineer][September 2019 to July 2020]
 \begin{itemize}
-\item Developed method to generate electrical impulses read by contact pulse-meter as human pulse. 
+\item Developed patented method to generate electrical impulses read by contact pulse-meter as human pulse. 
 \item Developed commercial electronic device to work with almost any training apparatus. PCB design and Embedded C development for the device with BLE functionality. 
-\item These projects led to the submission of a patent.
 \end{itemize}
  
 %% An example of leaving an argument empty
 \cvsubsection{\href{https://ailiton.ru/en/}{Ailiton} medical research}[Unimed Group LLC][Electronics Engineer (as invited specialist)][July 2018 to December 2018]
  
 \begin{itemize}
-\item Led project focused on the developing a device to read a gel card using machine learning algorithms. Eventually, led to the creation of a commercial electronic device.
+\item Led electronics development in a project focused on a gel card reader using machine learning algorithms. Eventually, led to the creation of a commercial electronic device.
 \end{itemize}
  
  
